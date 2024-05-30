@@ -1,4 +1,4 @@
-FROM docker:20.10
+FROM mirror.gcr.io/docker:20.10
 
 RUN apk add bash
 
